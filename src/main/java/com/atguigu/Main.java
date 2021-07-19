@@ -11,5 +11,6 @@ public class Main {
         System.out.println("hello word");
         System.out.println("hello fit2!");
         System.out.println("hello fit3!");
+        System.out.println("hello fit4!");
     }
 }
